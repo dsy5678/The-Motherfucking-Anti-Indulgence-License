@@ -1,6 +1,6 @@
 # “死妈的防沉迷”许可证
 
-Copyright (c) <Year> <Author>
+Copyright (c) \<year\> \<author\>
 
 1. 个人或法人实体必须在不加修改的情况下，在每个再版或衍生版许可作品上醒目地展示本许可证和通知。
 
