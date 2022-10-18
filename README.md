@@ -7,3 +7,4 @@
 # 此许可证下的项目
 
 - https://github.com/dsy4567/dsy4567
+- https://github.com/dsy4567/my-remote-control
