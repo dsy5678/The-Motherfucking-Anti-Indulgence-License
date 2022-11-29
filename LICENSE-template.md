@@ -22,7 +22,7 @@
 
 &emsp;&emsp;“举报平台”指[国家新闻出版署防止未成年人沉迷网络游戏举报平台](https://jubao.chinaso.com/)；
 
-&emsp;&emsp;“实名认证系统”指[网络游戏防沉迷实名认证系统](https://wlc.nppa.gov.cn/fcm_company/index.html)；
+&emsp;&emsp;“实名认证系统”指[网络游戏防沉迷实名认证系统](https://wlc.nppa.gov.cn/fcm_company/index.html)。
 
 ## 一、本作品的处置
 
